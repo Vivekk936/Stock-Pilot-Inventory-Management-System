@@ -1,0 +1,23 @@
+
+# Environment secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Django
+*.log
+db.sqlite3
+media/
+staticfiles/
+
+# Test and coverage files
+.coverage
+htmlcov/
+
+# IDE and editor
+.idea/
+.vscode/
